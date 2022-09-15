@@ -1,4 +1,4 @@
-[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png)]
+![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png)
 <h1 align="center">Hi 👋, I'm Dinidu Hewage</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/diniduhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diniduhewage" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dinidu-hewage-78386048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinidu-hewage-78386048" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dinidu-hewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinidu-hewage" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1615830/dinidu-hewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1615830/dinidu-hewage" height="30" width="40" /></a>
 <a href="https://instagram.com/diniduhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diniduhewage" height="30" width="40" /></a>
 </p>
 
