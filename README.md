@@ -14,7 +14,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/-php-7377AD?style=flat-square&logo=php&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=php&logoColor=white" />
   <img alt="ORACLE" src="https://img.shields.io/badge/-ORACLE-E32124?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5BC2F0?style=flat-square&logo=flutter&logoColor=white" />
