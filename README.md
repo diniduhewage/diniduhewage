@@ -18,7 +18,7 @@
   <img alt="ORACLE" src="https://img.shields.io/badge/-ORACLE-E32124?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5BC2F0?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-Wordpress-3858E9?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-3858E9?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
