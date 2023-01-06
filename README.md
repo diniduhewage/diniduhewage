@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diniduhewage&show_icons=true&locale=en" alt="diniduhewage" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=diniduhewage&theme=elegent&hide_border=true" alt="diniduhewage" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=diniduhewage&theme=elegant&hide_border=true" alt="diniduhewage" /></p>
