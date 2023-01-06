@@ -42,7 +42,8 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diniduhewage&show_icons=true&locale=en&layout=compact" alt="diniduhewage" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="diniduhewage" /></p>
+<div>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="diniduhewage" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=diniduhewage&theme=elegant&hide_border=true" alt="diniduhewage" /></p>
+  </div>
