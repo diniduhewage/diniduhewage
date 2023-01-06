@@ -20,10 +20,11 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5BC2F0?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-3858E9?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
+<hr/>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diniduhewage&label=Profile%20views&color=0e75b6&style=flat" alt="diniduhewage" /> </p>
+<p align="left" border="true"> <img src="https://komarev.com/ghpvc/?username=diniduhewage&label=Profile%20views&color=0e75b6&for-the-badge" alt="diniduhewage" /> </p>
 
 <p align="left"> <a href="https://twitter.com/diniduhewage" target="blank"><img src="https://img.shields.io/twitter/follow/diniduhewage?logo=twitter&style=for-the-badge" alt="diniduhewage" /></a> </p>
 
