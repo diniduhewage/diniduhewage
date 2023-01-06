@@ -46,4 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diniduhewage&show_icons=true&locale=en" alt="diniduhewage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diniduhewage&" alt="diniduhewage" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=diniduhewage)](https://git.io/streak-stats)
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=diniduhewage&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)" alt="diniduhewage" /></p>
