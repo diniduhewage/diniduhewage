@@ -44,7 +44,7 @@
 <hr/>
 <p><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diniduhewage&theme=react&line_height=40&hide=css"/> </a></p>
 <div>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="diniduhewage" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="diniduhewage" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=diniduhewage&theme=elegant&hide_border=true" alt="diniduhewage" /></p>
   </div>
