@@ -42,7 +42,7 @@
 <a href="https://instagram.com/diniduhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diniduhewage" height="30" width="40" /></a>
 </p>
 <hr/>
-<p><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diniduhewage&theme=react&line_height=40&hide=css"/> </a></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diniduhewage&theme=react&line_height=40&hide=css"/></p>
 <div>
 <p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="diniduhewage" /></p>
 
