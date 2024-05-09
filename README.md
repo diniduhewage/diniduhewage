@@ -30,9 +30,9 @@
 
 - 🌱 I’m currently learning **React JS, Spring Boot**
 
-- 💬 Ask me about **PLSQL, Oracle, WordPress, PHP**
+- 💬 Ask me about **Java Spring Boot, React JS, WordPress, PHP**
 
-- 📫 How to reach me **dinidu.hewage@gmail.com**
+- 📫 How to reach me **dinidu@onzdev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
