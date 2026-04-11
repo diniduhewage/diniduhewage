@@ -1,50 +1,110 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">Hi there, I'm Dinidu Hewage 👋</h1>
+<h3 align="center">Founder & CEO of Ones & Zeros Pvt Ltd | Full-Stack Developer | Building impactful digital solutions from Sri Lanka 🇱🇰</h3>
 
+<p align="center">
+  <a href="mailto:dinidu@onzdev.com">Email</a> •
+  <a href="https://linkedin.com/in/dinidu-hewage-78386048">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/1615830/dinidu-hewage">Stack Overflow</a> •
+  <a href="https://twitter.com/diniduhewage">Twitter</a> •
+  <a href="https://instagram.com/diniduhewage">Instagram</a>
+</p>
 
-<p>Welcome to my page! </br> I'm Dinidu, Fullstack developer from <img src="https://cdn2.iconfinder.com/data/icons/flags-68/48/Sri_Lanka-512.png" width="13"/> <b>Colombo, Sri Lanka</b> </p>
-<h3>Things I code with</h3>
+---
+
+## 🚀 About Me
+
+I am a Full-Stack Developer and tech entrepreneur from **Colombo, Sri Lanka**.  
+I lead **Ones & Zeros Pvt Ltd**, where we design and build software products, business systems, and large-scale digital platforms.
+
+I enjoy working on:
+
+- Enterprise web applications
+- Government and public sector digital platforms
+- Full-stack product development
+- API architecture and systems integration
+- UI-focused, scalable software solutions
+
+---
+
+## 🛠 Tech Stack
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=php&logoColor=white" />
-  <img alt="ORACLE" src="https://img.shields.io/badge/-ORACLE-E32124?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005E86?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5BC2F0?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-3858E9?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-E32124?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-<hr/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
+---
 
-<p align="left" border="true"> <img src="https://komarev.com/ghpvc/?username=diniduhewage&label=Profile%20views&color=0e75b6&for-the-badge" alt="diniduhewage" /> </p>
+## 🌱 Currently Exploring
 
-<p align="left"> <a href="https://twitter.com/diniduhewage" target="blank"><img src="https://img.shields.io/twitter/follow/diniduhewage?logo=twitter&style=for-the-badge" alt="diniduhewage" /></a> </p>
+- Advanced **React.js** patterns
+- Scalable **Spring Boot** architectures
+- Cloud deployments and DevOps workflows
+- Modern software architecture for national-scale platforms
 
-- 🌱 I’m currently learning **React JS, Spring Boot**
+---
 
-- 💬 Ask me about **Java Spring Boot, React JS, WordPress, PHP**
+## 💬 Ask Me About
 
-- 📫 How to reach me **dinidu@onzdev.com**
+- Java & Spring Boot
+- React.js
+- Full-stack application architecture
+- WordPress and PHP solutions
+- API design and system integration
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📫 Contact Me
+
+- **Email:** dinidu@onzdev.com
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/diniduhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diniduhewage" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dinidu-hewage-78386048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinidu-hewage-78386048" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1615830/dinidu-hewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1615830/dinidu-hewage" height="30" width="40" /></a>
-<a href="https://instagram.com/diniduhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diniduhewage" height="30" width="40" /></a>
+  <a href="https://twitter.com/diniduhewage" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/dinidu-hewage-78386048" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/1615830/dinidu-hewage" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/diniduhewage" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
-<hr/>
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diniduhewage&theme=react&line_height=40&hide=css"/></p>
-<div>
-<p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="diniduhewage" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=diniduhewage&theme=elegant&hide_border=true" alt="diniduhewage" /></p>
-  </div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diniduhewage&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diniduhewage&theme=react&line_height=40&hide=css" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diniduhewage&theme=elegant&hide_border=true" alt="GitHub streak" />
+</p>
