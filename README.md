@@ -1,110 +1,117 @@
-<h1 align="center">Hi there, I'm Dinidu Hewage 👋</h1>
-<h3 align="center">Founder & CEO of Ones & Zeros Pvt Ltd | Full-Stack Developer | Building impactful digital solutions from Sri Lanka 🇱🇰</h3>
+<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<p align="center">
-  <a href="mailto:dinidu@onzdev.com">Email</a> •
-  <a href="https://linkedin.com/in/dinidu-hewage-78386048">LinkedIn</a> •
-  <a href="https://stackoverflow.com/users/1615830/dinidu-hewage">Stack Overflow</a> •
-  <a href="https://twitter.com/diniduhewage">Twitter</a> •
-  <a href="https://instagram.com/diniduhewage">Instagram</a>
-</p>
-
----
-
-## 🚀 About Me
-
-I am a Full-Stack Developer and tech entrepreneur from **Colombo, Sri Lanka**.  
-I lead **Ones & Zeros Pvt Ltd**, where we design and build software products, business systems, and large-scale digital platforms.
-
-I enjoy working on:
-
-- Enterprise web applications
-- Government and public sector digital platforms
-- Full-stack product development
-- API architecture and systems integration
-- UI-focused, scalable software solutions
-
----
-
-## 🛠 Tech Stack
+<a href="https://onzdev.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dinidu+Hewage+%F0%9F%91%8B;Founder+%26+CEO+of+Ones+%26+Zeros+(Pvt)+Ltd;Full-Stack+Developer+%40+Colombo%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Building+national-scale+digital+platforms" alt="Typing SVG" />
+</a>
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-E32124?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <a href="mailto:dinidu@onzdev.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/dinidu-hewage-78386048"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/1615830/dinidu-hewage"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/diniduhewage"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/diniduhewage"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=diniduhewage&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** and tech entrepreneur based in **Colombo, Sri Lanka**. As Founder & CEO of **Ones & Zeros (Pvt) Ltd**, I lead a team designing and building software products, business systems, and large-scale digital platforms.
+
+- 🏗️ &nbsp;I build **enterprise web applications** and **government / public-sector digital platforms**
+- 🔌 &nbsp;I focus on **API architecture**, **systems integration**, and **scalable, UI-driven software**
+- 🌏 &nbsp;I'm passionate about delivering **impactful digital solutions from Sri Lanka**
+- 📫 &nbsp;Reach me at **dinidu@onzdev.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-005E86?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-E32124?style=flat-square&logo=oracle&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced **React.js** patterns
-- Scalable **Spring Boot** architectures
-- Cloud deployments and DevOps workflows
-- Modern software architecture for national-scale platforms
-
----
+- Advanced **React.js** patterns and performance optimization
+- Scalable **Spring Boot** architectures for national-scale platforms
+- **Cloud deployments** and modern **DevOps** workflows
+- Software architecture for high-availability, mission-critical systems
 
 ## 💬 Ask Me About
 
-- Java & Spring Boot
-- React.js
-- Full-stack application architecture
-- WordPress and PHP solutions
-- API design and system integration
+`Java & Spring Boot` &nbsp; `React.js` &nbsp; `Full-Stack Architecture` &nbsp; `WordPress & PHP` &nbsp; `API Design & System Integration`
 
----
+<!--
+=========================================================
+OPTIONAL: FEATURED PROJECTS
+Uncomment and fill in to showcase your best work.
+=========================================================
 
-## 📫 Contact Me
+## 🚀 Featured Projects
 
-- **Email:** dinidu@onzdev.com
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/diniduhewage" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dinidu-hewage-78386048" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/1615830/dinidu-hewage" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/diniduhewage" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+| Project | Description | Tech |
+| :------ | :---------- | :--- |
+| [Project One](https://link) | One-line description of what it does. | Spring Boot · React |
+| [Project Two](https://link) | One-line description of what it does. | Flutter · Node.js |
+-->
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diniduhewage&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diniduhewage&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub stats" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diniduhewage&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniduhewage&layout=compact&hide_border=true&hide=css&theme=tokyonight" alt="Top languages" />
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diniduhewage&theme=react&line_height=40&hide=css" alt="Top languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=diniduhewage&theme=elegant&hide_border=true" alt="GitHub streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=diniduhewage&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=diniduhewage&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building impactful digital solutions from Sri Lanka."*
+
+⭐️ From [Dinidu Hewage](https://github.com/diniduhewage)
+
+</div>
